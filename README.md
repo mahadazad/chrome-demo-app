@@ -14,4 +14,7 @@
 - Make sure the Developer mode checkbox has been selected.
 - Click the Load unpacked extension button, navigate to your app's folder and click OK.
 
+# Step 4:
+- You will see "Demo" in the list
+- Click on the "Launch" link
 
