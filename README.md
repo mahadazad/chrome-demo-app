@@ -5,14 +5,14 @@
 - Download/Clone the repo
 
 #Step 2:
-- Go to chrome://flags.
+- Go to `chrome://flags`.
 - Find "Experimental Extension APIs", and click its "Enable" link.
 - Restart Chrome.
 
 # Step 3:
-- Go to chrome://extensions
+- Go to `chrome://extensions`
 - Make sure the Developer mode checkbox has been selected.
-- Click the Load unpacked extension button, navigate to your app's folder and click OK.
+- Click the Load unpacked extension button, navigate to the downloaded/cloned repo folder and click OK.
 
 # Step 4:
 - You will see "Demo" in the list
