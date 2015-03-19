@@ -2,7 +2,7 @@
 
 # How To Install
 # Step 1:
-- Download/Clone the repo
+- Download/clone the repo
 
 #Step 2:
 - Go to `chrome://flags`.
