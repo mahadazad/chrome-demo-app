@@ -1,0 +1,22 @@
+{
+  	"name": "Demo",
+  	"description": "Demo",
+  	"version": "1",
+  	"manifest_version": 2,
+  	"default_locale": "en",
+  	"permissions": [
+  		"contextMenus",
+  		"desktopCapture"
+  	],
+  	"icons": {
+  		"16": "assets/images/icon-16.png",
+  		"128": "assets/images/icon-128.png"
+  	},
+  	"app": {
+  		"background": {
+  			"scripts": [
+  				"scripts/main.js"
+  			]
+  		}
+  	}
+  }
